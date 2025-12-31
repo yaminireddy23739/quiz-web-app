@@ -37,9 +37,6 @@ This project focuses on applying JavaScript logic with real UI interaction.
 - Debugging issues in real-time projects  
 - Improving UI/UX through feedback and conditions  
 
-
-
-
 ## Future Improvements
 
 - Add more quiz categories  
