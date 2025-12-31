@@ -1,5 +1,8 @@
 # Web Development Quiz App
 
+This is Day 5 of my 15 Days Web Development Challenge, where I’m building projects from beginner to advanced level.
+This project is part of a **frontend learning challenge** aimed at strengthening core web development fundamentals through hands-on projects.
+
 A simple and interactive **Web Development Quiz Application** built using **HTML, CSS, and JavaScript**.  
 This project focuses on applying JavaScript logic with real UI interaction.
 
@@ -34,9 +37,8 @@ This project focuses on applying JavaScript logic with real UI interaction.
 - Debugging issues in real-time projects  
 - Improving UI/UX through feedback and conditions  
 
-## Project Purpose
 
-This project is part of a **frontend learning challenge** aimed at strengthening core web development fundamentals through hands-on projects.
+
 
 ## Future Improvements
 
